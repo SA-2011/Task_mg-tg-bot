@@ -69,6 +69,8 @@ Comands:
 /start - Start the bot
 /help - Help menu
 /add_task - Add a new task
+/show_tasks - shows all your tasks
+/update_task - update your tasks
 """)
 
 async def main():
